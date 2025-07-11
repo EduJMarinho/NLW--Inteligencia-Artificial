@@ -5,12 +5,12 @@
 }
 
 body {
-  background-image: url(assets/bg.jpg) ;
+  background-image: url(assets/static_background.png) ;
   background-repeat: no-repeat;
-  background-size: 100% auto;
+  background-size: 100% 100%;
   background-position: top center;
-  background-color: rgb(9, 10, 9);  
-  color: azure;
+  background-color: rgba(14,14,15,255);  
+  color: azure;  
 }
 
 body, *, :root {  
@@ -43,7 +43,7 @@ section > div {
   padding: 2rem;
   padding-top: 1.5rem;
   border-radius: .5rem;
-  background-color: #2a2634;
+  background-color: #4a357d;
 }
 
 section h2 {
@@ -148,4 +148,8 @@ button:disabled {
   50% {
     opacity: .5;
   }
+}
+
+::-webkit-scrollbar {
+  width: .01rem;
 }
