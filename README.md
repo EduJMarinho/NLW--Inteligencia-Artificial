@@ -1,125 +1,36 @@
-# By Eduardo José Marinho - **FullStack**
+# 🧠 NLW – Inteligência Artificial
 
-# HTML
-- HyperText
-  - Texto puros, livros, recistas, jornais
-  - links: acessar outros documentos
-  - imagens, vídeos, áudios
-- Markup
-  - marcação
-  - tags: <a> </a>
-  - atributos: <a href="https://rocketseat.com.br"> 
-  - Globais: id. clas, ...
-- Language
-  - Linguagem
-  - Sintaxe: maneira de escrever
+Projeto desenvolvido durante a **Next Level Week (NLW Agents)** da plataforma **Rocketseat**, com foco em aplicar conceitos de **Inteligência Artificial Generativa** em aplicações web. Esta landing page representa a jornada prática de aprendizado, integrando IA com tecnologias modernas da web.
 
-# HTTP
-- HyperText
-- Transfer
-  - tranferência
-- Protocol
-  - protocolo
-  - conjunto de regras
-- Methods (verbos) HTTP: Get, Post, Patch/Put, Delete
-- Headers (cabeçalhos): Instruções/Informações extras para cada chamada
+🔗 [Acesse o projeto online](https://edujmarinho.github.io/NLW--Inteligencia-Artificial/)
 
-# URL
-- Uniform
-  - uniforme
-- Recurce
-  - recurso
-- Locator
-  - localizador
+## 🎯 Objetivos
 
-Encontrar um recurso ( html, css, js, pdf, png, mp4, mp3 ...)
+- Criar uma interface moderna e responsiva com HTML e CSS  
+- Integrar conceitos de IA generativa em uma aplicação web  
+- Consolidar o aprendizado por meio de um projeto prático e temático  
 
-# IP
-- Internet
-  - rede mundial de computadores
-- Protocol
-  - conjunto de regras
+## 🚀 Tecnologias Utilizadas
 
-Endereço do computar
-rocketseat.com.br (domínio)
-123.32.1.23 (ip)
+- **HTML5** – Estrutura semântica da página  
+- **CSS3** – Estilização e responsividade  
+- *(JavaScript e APIs de IA podem ser integrados futuramente)*
 
-# DNS
- - Domain
-  - domínio
-- Name
-  - nome
-- Server
-  - servidor
+## 🧠 Aprendizados
 
-# CSS
-- Cascading
-  - cascata
-  - regras das escritas
-  - hierarquia
-  - especificidade
-- Style
-  - estilo
-- Sheet
-  - folha
+- Estruturação de páginas com foco em clareza e propósito  
+- Estilização com animações e transições visuais  
+- Introdução à integração de IA via APIs e engenharia de prompt  
+- Participação em evento colaborativo e intensivo de desenvolvimento
 
-De um arquivo que terá na sua sintaxe, declarações,propriedades e valores.
-A partir disso, o HTML é impactado visualmente.
+## 🙋‍♂️ Autor
 
-- declaração 
-- seletor
-- propriedade e valor
+Desenvolvido por **Eduardo José Marinho**, aluno da Rocketseat e entusiasta da tecnologia.  
+Este projeto representa mais um passo na jornada de aprendizado e evolução como desenvolvedor.
 
-# JS
-- Linguagem de programação
-- Browsers
-- Input → Process → Output
-- Variáveis
-- Function
-  - agrupamento e reuso código
-  - sequência lógica
-  - saída
-- Gemini (IA): esperar resposta
-- Mexer no meu navegador  
-- Estrutura de dados
-- Estrutura de decisão
-- Algoritimo: sequência de passos de lógica, de maneira ordenada, a fim de chegar a alguma conclusão ( limitada ) 
-- Lógica (pensamento computacional)
-  - abstração
-  - decomposição
-  - algoritimo
-  - reconhecimento de padrão
-- Tipos de dados
-  - numbeer ( números )
-  - string ( textos )  ( " ", ' ', ``)
-  - boolean: true | false
-  - objects
+> “Construir, errar, refatorar, aprender: esse é o caminho do Dev.” – Edu Marinho
 
-  # DOM
-  - Document
-  - Object
-  - Mode
+## 🙌 Agradecimento
 
-  # API
-  - Application
-  - Programming
-  - Interface
-  - JSON: JavaScript Object Notation
-
-  # LLM
-  - Large
-  - Language
-  - Model
-  - Gemini, OpenAI, Anthropic (Claude) ...
-
-  # Agentes AI
-  - Tools (ferramentas): permitem usi de código, ou apps, ou qualquer informação extra
-  - Melhor contexto
-
-  # Engenharia de Prompt
-  - One shot: uma única pergunta sem muito contexto
-  - Few shot: é apresentado exemplos do que se espera
-  - Chain of Thought: Cadeia de pensamento para a IA responder gradativamente conforme a instrução
-
-
-  
+Se você chegou até aqui, desejo **muita sorte na sua jornada** como dev.  
+**Jesus seja louvado! 🙏**
